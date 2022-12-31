@@ -1,0 +1,18 @@
+.navber{
+    background-color:rgb(64, 233, 17) ;
+}
+.container-parants{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(64, 233, 17, 0.63);
+    padding: 5px 2px 5px 2px;
+}
+.logo a{
+    text-decoration: none;
+    color: black;
+}
+.leftNav a{
+    text-decoration: none;
+    color: black;
+    margin-right: 7px;
+}

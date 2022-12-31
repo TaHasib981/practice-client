@@ -1,0 +1,29 @@
+.singleDiv{
+    border: 1px solid red;
+}
+.buttonDiv{
+    display: flex;
+    justify-content: space-between;
+}
+.deleteButton{
+    border: 1px solid transparent;
+    outline: none;
+    background-color: rgba(142, 105, 180, 0.569);
+    border-radius: 5px;
+}
+.deleteButton:hover{
+    background-color: #08d620;
+    color:rgb(230, 55, 55);
+
+}
+.updateButton{
+    border: 1px solid transparent;
+    outline: none;
+    background-color: rgba(142, 105, 180, 0.569);
+    border-radius: 5px;
+}
+.updateButton:hover{
+    background-color: #08d620;
+    color:rgb(247, 234, 234);
+}
+

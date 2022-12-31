@@ -1,0 +1,23 @@
+.details {
+    border: 3px solid black;
+    width: 25%;
+    display: block;
+    margin: auto;
+    padding: 5px;
+    border: none;
+
+}
+
+.update-Button {
+    width: 79%;
+    background-color: rgba(142, 105, 180, 0.569);
+    margin-top: 5px;
+    border: none;
+    font-style: bold;
+    font-weight: bolder;
+}
+
+.update-Button:hover {
+    color: wheat;
+    background-color: #08d620;
+}
